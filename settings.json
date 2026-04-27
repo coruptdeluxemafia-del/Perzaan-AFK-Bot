@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "SuperPlayer",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "ConsoleeReborn.aternos.me",
+    "port": 54400,
     "version": "1.21.1"
   },
   "position": {
